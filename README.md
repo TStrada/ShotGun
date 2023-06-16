@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://github.com/TStrada/ShotGun/blob/main/Images/ShotGun.png" width="60%">
 </p>
-  <h6 align="center">a Lab in Smart Cities Project</h6>
 <p align="center">
   <a href="#overview">Overview &nbsp;</a> |
   <a href="#interactive map">&nbsp; Interactive map &nbsp;</a> |
