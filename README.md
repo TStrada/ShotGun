@@ -1,6 +1,6 @@
 # ShotGun
 <p align="center">
-  <img src="https://github.com/TStrada/ShotGun/blob/main/Images/ShotGun.png" width="60%">
+  <img src="https://github.com/TStrada/ShotGun/blob/main/Images/ShotGun.png" width="50%">
 </p>
 <p align="center">
   <a href="#overview">Overview &nbsp;</a> |
