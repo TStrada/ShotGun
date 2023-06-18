@@ -14,10 +14,11 @@ Find the right club for the right company.
 With this interactive map you can explore the clubs in Milan and find the one that suits you best.
 
 You can choose from 4 types of venues based on the menu:
--) Pubs 
--) Wine   
--) Drinks
--) Various
+<p>-) Pubs</p>
+<p>-) Wine &nbsp;&nbsp;</p>
+<p>-) Drinks</p>
+<p>-) Various</p>
+<p><br></p>
 
 Reviews and ratings were made by the administrators (SPOILERS contain irony!!!!).
 
