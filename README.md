@@ -3,13 +3,12 @@
   <img src="https://github.com/TStrada/ShotGun/blob/main/Images/ShotGun.png" width="50%">
 </p>
 <p align="center">
-  <a href="#overview">&nbsp; Overview &nbsp;</a> |
   <a href="#interactive map">&nbsp; Interactive map &nbsp;</a> |
   <a href="#Contacts">&nbsp; Contacts &nbsp;</a>
 </p>
 
-<a name="overview"></a>
-## &#9741; &nbsp; Overview
+<a name="interactive map"></a>
+## &#9741; &nbsp; Interactive map
 Find the right club for the right company. 
 With this interactive map you can explore the clubs in Milan and find the one that suits you best.
 
