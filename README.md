@@ -3,7 +3,7 @@
   <img src="https://github.com/TStrada/ShotGun/blob/main/Images/ShotGun.png" width="50%">
 </p>
 <p align="center">
-  <a href="#overview">Overview &nbsp;</a> |
+  <a href="#overview">&nbsp; Overview &nbsp;</a> |
   <a href="#interactive map">&nbsp; Interactive map &nbsp;</a> |
   <a href="#Contacts">&nbsp; Contacts &nbsp;</a>
 </p>
