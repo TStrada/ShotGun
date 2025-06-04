@@ -19,7 +19,7 @@ You can choose from 4 types of venues based on the menu:
 <p>-) Various</p>
 <p><br></p>
 
-Reviews and ratings were made by the administrators (SPOILERS contain irony!!!!).
+Reviews and ratings were made by the administrators (jokes only).
 
 
 You can find the interactive map here: https://TStrada.github.io/ShotGun/Mappina.html
